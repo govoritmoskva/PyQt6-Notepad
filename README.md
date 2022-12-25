@@ -1,2 +1,2 @@
-# pyqt6-notepad
-Just a notepad in Python
+# Notepad
+Just a notepad in Python. (using framework PyQt6)
